@@ -1,3 +1,6 @@
-yarn install
-yarn run dev
-open index.html
+`yarn install`
+
+`yarn run dev`
+
+open `index.html`
+
